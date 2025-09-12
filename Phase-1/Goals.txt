@@ -1,0 +1,5 @@
+1. Capture every student inquiry in Salesforce
+2. Assign each inquiry to a counselor automatically
+3. Track Application → Admission → Enrollment
+4. Send email/SMS updates to students
+5. Show managers dashboards

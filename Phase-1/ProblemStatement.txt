@@ -1,0 +1,3 @@
+Colleges get many student inquiries (website, social media, events, walk-ins).
+Follow-up is slow and tracking is manual → many students are lost.
+We will build a Salesforce CRM to automate Inquiry → Application → Enrollment.

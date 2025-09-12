@@ -1,0 +1,4 @@
+1. Admin – manages the system
+2. Admission Counselor – talks to students
+3. Manager – checks reports & dashboards
+4. Student – applies to the college
