@@ -1,0 +1,7 @@
+# Phase-2: Security Setup
+
+- Profiles control what actions a user can perform (e.g., Admission Counselor Profile can create and edit Student Inquiries).
+- Roles define who can see records in the role hierarchy (e.g., Admissions Manager can see all Admission Counselor records).
+- Organization-Wide Defaults (OWD) set the baseline visibility of records.
+- Sharing Rules will later allow access to other counselors/managers when needed.
+- Permission Sets provide extra access without changing profiles (Admissions Manager PS created).

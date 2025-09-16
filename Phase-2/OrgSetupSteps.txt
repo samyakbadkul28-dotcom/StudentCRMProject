@@ -1,0 +1,25 @@
+# Phase-2: Org Setup Steps
+
+1. Created Salesforce Developer Org.
+2. Updated Company Information:
+   - Name: Student CRM Project
+   - Locale: English (India)
+   - Currency: INR
+3. Set Business Hours:
+   - College Hours: Mon–Fri, 9:00 AM to 6:00 PM
+4. Created Users:
+   - Rahul Counselor (Standard User)
+   - Priya Manager (System Administrator)
+5. Created Roles:
+   - Admissions Manager (reports to CEO)
+   - Admission Counselor (reports to Admissions Manager)
+6. Created Profiles:
+   - Admission Counselor Profile (cloned from Standard User)
+7. Configured Organization-Wide Defaults (OWD):
+   - Accounts: Public Read/Write
+   - Contacts: Controlled by Parent
+   - Student Inquiry (custom object – to be created in Phase-3): Private
+   - Application (custom object – to be created in Phase-3): Private
+   - Program (custom object – to be created in Phase-3): Public Read Only
+8. Created Permission Set:
+   - Admissions Manager PS (for extra permissions later)
