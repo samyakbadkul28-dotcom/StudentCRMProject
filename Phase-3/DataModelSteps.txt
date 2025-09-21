@@ -1,0 +1,20 @@
+# Phase-3: Data Modeling & Relationships
+
+Created 4 custom objects:
+1. Student Inquiry
+   - Auto Number: INQ-{000}
+   - Fields: Email, Phone, Source, Interest Area, Status, Assigned Counselor (Lookup User), Lead Score
+2. Program
+   - Auto Number: PROG-{000}
+   - Fields: Department, Duration, Fees
+3. Application
+   - Auto Number: APP-{000}
+   - Fields: Student Inquiry (Lookup), Program (Lookup), Application Date, Status
+4. Enrollment
+   - Auto Number: ENR-{000}
+   - Fields: Application (Lookup), Enrollment Date, Status
+
+Relationships:
+- One Student Inquiry → Many Applications
+- One Program → Many Applications
+- One Application → One Enrollment
