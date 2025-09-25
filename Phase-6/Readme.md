@@ -60,7 +60,8 @@ We set baseline access levels:
 - Application → **Private**  
 - Enrollment → **Public Read Only**  
 - Program → **Public Read Only**  
-<img width="1350" height="607" alt="OWD_Settings" src="https://github.com/user-attachments/assets/d1be51aa-a01c-456a-8f09-292876769e18" />
+<img width="1347" height="620" alt="OWD_Settings" src="https://github.com/user-attachments/assets/4a358bee-cd2d-4a0b-9bdb-ff86b9b1ff96" />
+
 
 ---
 
